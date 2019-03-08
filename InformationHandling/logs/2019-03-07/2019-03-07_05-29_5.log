@@ -1,0 +1,422 @@
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.ParagraphParser - Add sentence in paragraph.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.TextParser - Add paragraph in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.ParagraphParser - Add sentence in paragraph.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.TextParser - Add paragraph in text.
+2019-03-07 05:29:39 [main] WARN  epam.tasktwo.parser.impl.SentenceParser - Unknown expression: !!!
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.ParagraphParser - Add sentence in paragraph.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.TextParser - Add paragraph in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add lexeme in sentence.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SymbolParser - Add add symbol in text.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add symbol in word.
+2019-03-07 05:29:39 [main] INFO  epam.tasktwo.parser.impl.SentenceParser - Add word in lexeme
