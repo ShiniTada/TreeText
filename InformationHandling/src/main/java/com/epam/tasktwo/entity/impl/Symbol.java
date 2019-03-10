@@ -9,65 +9,67 @@ import java.util.Objects;
 
 public class Symbol implements Component {
 
-    private final static ComponentType TYPE = ComponentType.SYMBOL;
-    private char littleSymble;
+  private final static ComponentType TYPE = ComponentType.SYMBOL;
+  private char littleSymbol;
 
-    private List<Component> textComponents = new ArrayList<>();
+  private List<Component> textComponents = new ArrayList<>();
 
-    public Symbol(char littleSymble) {
-        this.littleSymble = littleSymble;
+
+  public Symbol(char littleSymbol) {
+    this.littleSymbol = littleSymbol;
+  }
+
+
+  @Override
+  public void add(Component textComponent) {
+    textComponents.add(textComponent);
+  }
+
+
+  @Override
+  public void remove(Component textComponent) {
+    textComponents.remove(textComponent);
+  }
+
+
+  @Override
+  public List<Component> getAllChildren() {
+    return textComponents;
+  }
+
+  @Override
+  public String collectComponents() {
+    return String.valueOf(littleSymbol);
+  }
+
+  @Override
+  public ComponentType getComponentType() {
+    return TYPE;
+  }
+
+  @Override
+  public String toString() {
+    return "Symbol{" +
+            "littleSymbol=" + littleSymbol +
+            ", textComponents=" + textComponents +
+            '}';
+  }
+
+  @Override
+  public boolean equals(Object o) {
+    if (this == o) {
+      return true;
     }
-
-    @Override
-    public void add(Component textComponent) {
-        textComponents.add(textComponent);
+    if (o == null || getClass() != o.getClass()) {
+      return false;
     }
+    Symbol symbol = (Symbol) o;
+    return littleSymbol == symbol.littleSymbol &&
+            Objects.equals(textComponents, symbol.textComponents);
+  }
 
-
-    @Override
-    public void remove(Component textComponent) {
-        textComponents.remove(textComponent);
-    }
-
-
-    @Override
-    public List<Component> getAllChildren() {
-        return textComponents;
-    }
-
-    @Override
-    public String collectComponents() {
-        return String.valueOf(littleSymble);
-    }
-
-    @Override
-    public ComponentType getComponentType() {
-        return TYPE;
-    }
-
-    @Override
-    public String toString() {
-        return "Symbol{" +
-                "littleSymble=" + littleSymble +
-                ", textComponents=" + textComponents +
-                '}';
-    }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) {
-            return true;
-        }
-        if (o == null || getClass() != o.getClass()) {
-            return false;
-        }
-        Symbol symbol = (Symbol) o;
-        return littleSymble == symbol.littleSymble &&
-                Objects.equals(textComponents, symbol.textComponents);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(littleSymble, textComponents);
-    }
+  @Override
+  public int hashCode() {
+    return Objects.hash(littleSymbol, textComponents);
+  }
 }

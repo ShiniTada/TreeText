@@ -12,37 +12,37 @@ import java.util.List;
 
 public class SentenceParser implements DataParser {
 
-    private final static Logger LOGGER = LogManager.getLogger(SentenceParser.class);
+  private final static Logger LOGGER = LogManager.getLogger(SentenceParser.class);
 
-    private final static String SPLIT_REGEX = "\\s";
+  private final static String SPLIT_REGEX = "\\s";
 
-    private LexemeParser nextParser;
+  private LexemeParser nextParser;
 
 
-    public SentenceParser() {
-        this.nextParser = new LexemeParser();
-        LOGGER.info("Took the next parser - LexemeParser.");
+  public SentenceParser() {
+    this.nextParser = new LexemeParser();
+    LOGGER.info("Took the next parser - LexemeParser.");
+  }
+
+
+  @Override
+  public boolean hasNextParser() {
+    return nextParser != null;
+  }
+
+
+  @Override
+  public Composite handleParserRequest(String string) {
+    List<String> lexemesInStrings = Arrays.asList(string.split(SPLIT_REGEX));
+    Composite sentenceComposite = new Composite(ComponentType.SENTENCE);
+
+    for (String lexeme: lexemesInStrings) {
+      Component lexemeComposite = nextParser.handleParserRequest(lexeme);
+      sentenceComposite.add(lexemeComposite);
     }
-
-
-    @Override
-    public boolean hasNextParser() {
-        return nextParser != null;
-    }
-
-
-    @Override
-    public Composite handleParserRequest(String string) {
-        List<String> lexemasInStrings = Arrays.asList(string.split(SPLIT_REGEX));
-        Composite sentenceComposite = new Composite(ComponentType.SENTENCE);
-
-        for (String lexema : lexemasInStrings) {
-            Component lexemaComposite = nextParser.handleParserRequest(lexema);
-            sentenceComposite.add(lexemaComposite);
-        }
-        LOGGER.info("Add lexemes in sentence.");
-        return sentenceComposite;
-    }
+    LOGGER.info("Add lexemes in sentence.");
+    return sentenceComposite;
+  }
 
 }
 

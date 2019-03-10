@@ -4,17 +4,17 @@ import java.util.List;
 
 public interface Component {
 
-    public void add(Component textComponent);
+  public void add(Component textComponent);
 
 
-    public void remove(Component textComponent);
+  public void remove(Component textComponent);
 
 
-    public List<Component> getAllChildren();
+  public List<Component> getAllChildren();
 
-    String collectComponents();
+  String collectComponents();
 
-    ComponentType getComponentType();
+  ComponentType getComponentType();
 
 
 }

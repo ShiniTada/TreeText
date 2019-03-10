@@ -8,30 +8,30 @@ import com.epam.tasktwo.parser.DataParser;
 
 public class NumberParser implements DataParser {
 
-    private SymbolParser nextParser;
+  private SymbolParser nextParser;
 
 
-    public NumberParser() {
-        nextParser = new SymbolParser();
+  public NumberParser(){
+    nextParser = new SymbolParser();
+  }
+
+
+  @Override
+  public boolean hasNextParser() {
+    return nextParser != null;
+  }
+
+
+  @Override
+  public Composite handleParserRequest(String number) {
+    Composite numberComposite = new Composite(ComponentType.NUMBER);
+
+    char[] digits = number.toCharArray();
+    for (char digit: digits) {
+      Component numberComponent = nextParser.handleParserRequest(String.valueOf(digit));
+      numberComposite.add(numberComponent);
     }
-
-
-    @Override
-    public boolean hasNextParser() {
-        return nextParser != null;
-    }
-
-
-    @Override
-    public Composite handleParserRequest(String number) {
-        Composite numberComposite = new Composite(ComponentType.NUMBER);
-
-        char[] digits = number.toCharArray();
-        for (char digit : digits) {
-            Component numberComponent = nextParser.handleParserRequest(String.valueOf(digit));
-            numberComposite.add(numberComponent);
-        }
-        return numberComposite;
-    }
+    return numberComposite;
+  }
 
 }

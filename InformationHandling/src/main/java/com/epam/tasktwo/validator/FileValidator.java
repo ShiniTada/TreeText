@@ -4,6 +4,6 @@ import java.io.File;
 
 public interface FileValidator {
 
-    boolean checkFile(File file);
+  boolean checkFile(File file);
 
 }

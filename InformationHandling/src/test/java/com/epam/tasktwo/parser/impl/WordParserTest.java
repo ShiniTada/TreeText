@@ -4,17 +4,19 @@ import com.epam.tasktwo.entity.Component;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import static org.testng.Assert.*;
+
 public class WordParserTest {
 
-    private final static String WORD = "oki";
+  private final static String WORD = "oki";
 
-    @Test
-    public void testHandleParserRequest() {
-        //given
-        WordParser wordParser = new WordParser();
-        //when
-        Component actual = wordParser.handleParserRequest(WORD);
-        //then
-        Assert.assertEquals(actual.collectComponents(), WORD);
-    }
+  @Test
+  public void testHandleParserRequest() {
+    //given
+    WordParser wordParser = new WordParser();
+    //when
+    Component actual = wordParser.handleParserRequest(WORD);
+    //then
+    Assert.assertEquals(actual.collectComponents(), WORD);
+  }
 }

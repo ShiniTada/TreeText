@@ -9,11 +9,11 @@ import java.util.List;
 
 public class SortParagraphs {
 
-    public Composite sortParagraphsByAmountOfSentences(Composite realText) {
-        Composite text = new Composite(realText);
-        List<Component> paragraphs = text.getAllChildren();
-        paragraphs.sort(Comparator.comparing(par -> par.getAllChildren().size()));
-        return text;
-    }
+  public Composite sortParagraphsByAmountOfSentences(Composite realText){
+    Composite text = new Composite(realText);
+    List<Component> paragraphs = text.getAllChildren();
+    paragraphs.sort(Comparator.comparing(par -> par.getAllChildren().size()));
+    return text;
+  }
 
 }
